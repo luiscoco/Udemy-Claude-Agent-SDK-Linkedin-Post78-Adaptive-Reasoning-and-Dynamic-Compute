@@ -1,0 +1,16 @@
+{
+  "lesson": 77,
+  "title": "Adaptive Reasoning and Dynamic Compute",
+  "application": "Adaptive Compute Router",
+  "purpose": "Use an inspectable complexity heuristic to select a short answer or an analysis-plus-review path with a fixed call budget.",
+  "exercise": "Compare a short factual question with a long comparative one. Tune the cutoff using measured quality and latency, not intuition alone.",
+  "source_topics": [
+    "00-Razonamiento adaptativo y cómputo dinámico.png",
+    "01-One-Size-Wastes-Compute.png",
+    "02-Assess-Task-Complexity.png",
+    "03-Map-Complexity-to-Strategy.png",
+    "04-Route-Requests-in-Code.png",
+    "05-Escalate-When-Results-Fall-Short.png",
+    "06-Measure-and-Tune-the-Router.png"
+  ]
+}

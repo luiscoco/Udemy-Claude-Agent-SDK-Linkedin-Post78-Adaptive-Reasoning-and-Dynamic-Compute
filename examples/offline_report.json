@@ -1,0 +1,17 @@
+{
+  "lesson": 77,
+  "application": "Adaptive Compute Router",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "complexity_heuristic": 14,
+    "strategy": "reviewed",
+    "answer": "Compare evidence and constraints before selecting an alternative.",
+    "review": {
+      "covered": true,
+      "issue": "Specific alternatives still need supplied evidence."
+    },
+    "calls": 2
+  },
+  "measured_cost_usd": null
+}

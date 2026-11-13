@@ -1,0 +1,26 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "answer",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "answer",
+    "elapsed_seconds": 0.00019
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_started",
+    "stage": "review",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "review",
+    "elapsed_seconds": 4e-05
+  }
+]
